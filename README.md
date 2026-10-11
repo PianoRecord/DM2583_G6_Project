@@ -1,6 +1,6 @@
 # DM2583 Group 6 — Problem 2 MVP
 
-目标：2–3 天完成 50–100 首音乐的 normalized beat-chroma 生成实验。每个样本
+目标：2–3 天完成 MAESTRO v3.0.0 的 50 首钢琴独奏录音的 normalized beat-chroma 生成实验。每个样本
 `(16,12)`，展平为 192 维。复用 Problem 1 的三层 128 单元 SiLU MLP 和线性
 Flow Matching 训练方式，重新训练音乐模型（不加载 torus 权重）。
 
@@ -27,7 +27,11 @@ python -m unittest discover -s tests -v
 
 **B/C 无需下载音频：** `data/problem2/processed/train.npy` 和 `test.npy` 已被明确允许入库，
 连同 manifest、src、Notebook、说明及图表一起提交后，足以继续训练/评价。
-Problem 2 正式模型权重尚未生成；Notebook 会自行训练，不依赖预训练权重。
+截至 2026-10-11，已完成一次真实数据正式训练与 A/B/C/D 评价；Notebook 保存了
+`REAL_EXPERIMENT_OK`。正式权重为 `models/problem2/flow.pt`，生成样本、共享噪声和
+参考数据保存在 `results/problem2/samples.npz`，指标、配置和图表位于同目录。
+本次使用 1129 个训练窗口、297 个测试窗口，训练 3000 步，采样 100 步。
+Notebook 从头运行会重新训练并覆盖对应正式产物，不会自动加载现有权重；可先查看已有结果。
 
 **只有需要重做 Person A 时才下载音频：**
 

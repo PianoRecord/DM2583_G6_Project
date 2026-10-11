@@ -22,7 +22,11 @@ test = np.load('data/problem2/processed/test.npy')
 
 Person B 只用 train 训练；Person C 用 test 评价。每个样本展平为 192 维后可直接进入现有 MLP。
 Notebook 的真实数据分支已改成加载这些数组，不再每次重新提取音频特征。
-本次没有进行正式模型训练。
+Person A 的数据准备阶段不包含模型训练。后续已完成一次正式训练与 A/B/C/D 评价
+（截至 2026-10-11）：Notebook 保存了 `REAL_EXPERIMENT_OK`，权重位于
+`models/problem2/flow.pt`，样本位于 `results/problem2/samples.npz`，
+指标、配置和图表位于 `results/problem2/`。B/C 可先复核这些结果，再完成报告；
+从头运行 Notebook 会重新训练并覆盖对应正式产物。
 
 ## 预处理规则
 
