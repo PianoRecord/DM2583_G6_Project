@@ -1,0 +1,62 @@
+{
+  "split_policy": "MAESTRO official train/test; no rerandomization",
+  "skipped": [],
+  "splits": {
+    "train": {
+      "shape": [
+        1129,
+        16,
+        12
+      ],
+      "dtype": "float32",
+      "songs_with_windows": 40,
+      "windows": 1129,
+      "invalid_beats": 12,
+      "rejected_windows": 5,
+      "tail_beats": 329,
+      "finite": true,
+      "minimum": 1.8242393707623705e-05,
+      "max_row_sum_error": 2.980232238769531e-07
+    },
+    "test": {
+      "shape": [
+        297,
+        16,
+        12
+      ],
+      "dtype": "float32",
+      "songs_with_windows": 10,
+      "windows": 297,
+      "invalid_beats": 0,
+      "rejected_windows": 0,
+      "tail_beats": 92,
+      "finite": true,
+      "minimum": 8.265355427283794e-05,
+      "max_row_sum_error": 2.384185791015625e-07
+    }
+  },
+  "beat_spotchecks": [
+    {
+      "file": "maestro_034.flac",
+      "start_seconds": 3.111473922902494,
+      "end_seconds": 15.111473922902494,
+      "tempo_bpm": 112.34714673913044,
+      "interval_cv": 0.04268695594290563
+    },
+    {
+      "file": "maestro_038.flac",
+      "start_seconds": 2.786394557823129,
+      "end_seconds": 14.78639455782313,
+      "tempo_bpm": 151.99908088235293,
+      "interval_cv": 0.054649133002594955
+    },
+    {
+      "file": "maestro_017.flac",
+      "start_seconds": 3.877732426303855,
+      "end_seconds": 15.877732426303854,
+      "tempo_bpm": 83.35433467741936,
+      "interval_cv": 0.07587634068971327
+    }
+  ],
+  "beat_check_limitation": "Visual diagnostic only; no ground-truth beat annotations. Half/double-tempo and rubato errors remain possible."
+}

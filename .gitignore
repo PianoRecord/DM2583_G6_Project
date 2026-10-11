@@ -1,0 +1,25 @@
+.DS_Store
+.idea/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+# Keep source/manifest placeholders; exclude local datasets and weights.
+data/**/*.npy
+data/**/*.npz
+data/problem2/audio/*
+!data/problem2/audio/.gitkeep
+models/**/*.pt
+models/**/*.pth
+results/problem2/**/*.npz
+results/problem2/smoke/
+
+# Person A deliverables: small, ready-to-use arrays required by teammates.
+!data/problem2/processed/train.npy
+!data/problem2/processed/test.npy
+# Local secrets and failed/interrupted downloads.
+.env.*
+!.env.example
+*.part

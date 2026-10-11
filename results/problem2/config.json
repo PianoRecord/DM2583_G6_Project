@@ -1,0 +1,17 @@
+{
+  "smoke": false,
+  "seed": 42,
+  "train_steps": 3000,
+  "batch_size": 256,
+  "ode_steps": 100,
+  "alpha": 0.1,
+  "hidden": 128,
+  "lr": 0.001,
+  "max_eval": 512,
+  "bandwidth_squared": 3.1976437490362164,
+  "n_train": 1129,
+  "n_test": 297,
+  "n_eval": 297,
+  "torch_version": "2.14.1",
+  "numpy_version": "2.4.6"
+}

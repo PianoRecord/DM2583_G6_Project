@@ -1,0 +1,51 @@
+file,canonical_composer,canonical_title,split,tempo_bpm,beat_intervals,invalid_beats,windows,rejected_windows,tail_beats,interval_cv
+maestro_011.flac,Johann Sebastian Bach,"Prelude and Fugue in F Minor, WTC I, BWV 857",train,73.828125,231,0,14,0,7,0.05431301333041737
+maestro_012.flac,Domenico Scarlatti,"Sonata in C Major, K. 179",train,123.046875,263,0,16,0,7,0.04513013565079915
+maestro_013.flac,Wolfgang Amadeus Mozart,"Sonata in B-flat Major, K. 570, 1st mov.",train,161.4990234375,688,0,43,0,0,0.06020374213918294
+maestro_014.flac,Joseph Haydn,"Sonata in A-flat Major, No. 31 Hob. XVI:46, 1st mov.",train,103.359375,471,0,29,0,7,0.0600083922940704
+maestro_015.flac,Ludwig van Beethoven,"Sonata No. 7 in D Major, Op. 10 No. 3, First Movement",train,151.99908088235293,707,0,44,0,3,0.05106478456791543
+maestro_016.flac,Franz Schubert,"Impromptu Op. 90 No. 2 in E-flat Major, D. 899",train,184.5703125,860,0,53,0,12,0.060504131029018325
+maestro_017.flac,Frédéric Chopin,"Two Preludes from Op. 28, Nos. 15 and 24",train,83.35433467741936,393,0,24,0,9,0.07587634068971327
+maestro_018.flac,Franz Liszt,"Concert Etude No. 2, “La leggierezza"", S. 144",train,123.046875,535,0,33,0,7,0.06474765728678358
+maestro_019.flac,Claude Debussy,"Preludes No. 2, 6, 12",train,129.19921875,464,0,29,0,0,0.05636541098064463
+maestro_020.flac,Sergei Rachmaninoff,"Moments Musicaux, Op. 16",train,112.34714673913044,300,0,18,0,12,0.06533112969619159
+maestro_021.flac,Alexander Scriabin,"Etude in D-flat Major, Op. 8 No. 10",train,151.99908088235293,254,0,15,0,14,0.05834575403658352
+maestro_022.flac,Edvard Grieg,"Lyric Piece in A Minor, “Waltz,” Op. 12 No. 2",train,184.5703125,338,0,21,0,2,0.05115324782571845
+maestro_023.flac,Johann Sebastian Bach,"Prelude and Fugue in C-Sharp Major, WTC I, BWV 848",train,103.359375,335,0,20,0,15,0.06452997338085292
+maestro_024.flac,Domenico Scarlatti,"Sonata in D Minor, K. 1",train,112.34714673913044,252,0,15,0,12,0.04676848444280615
+maestro_025.flac,Wolfgang Amadeus Mozart,"Sonata in D Major, K 576, First Movement",train,129.19921875,493,0,30,0,13,0.052313271420432315
+maestro_026.flac,Joseph Haydn,"Sonata in C Major, Hob. XVI:50, 1st mov.",train,129.19921875,620,0,38,0,12,0.05709176530375762
+maestro_027.flac,Ludwig van Beethoven,"Sonata No. 7, Op. 10 No. 3 in D Major, I. Presto",train,151.99908088235293,727,4,42,3,7,0.05199779263655727
+maestro_028.flac,Franz Schubert,Sonata in B-flat Major D. 962,train,135.99917763157896,476,0,29,0,12,0.047575294446624346
+maestro_029.flac,Frédéric Chopin,Etude Op. 25 No. 11 in A Minor,train,129.19921875,410,0,25,0,10,0.05297277665307918
+maestro_030.flac,Franz Liszt,"Trois Etudes de Concert ""La leggierezza"", S.144",train,172.265625,777,8,46,2,9,0.05540070270308791
+maestro_031.flac,Claude Debussy,"Images, Book I, ""Reflets dans l'eau""",train,198.76802884615384,921,0,57,0,9,0.04950114427179909
+maestro_032.flac,Sergei Rachmaninoff,"Moment Musicaux, Op. 16 No. 3 in B Minor",train,151.99908088235293,621,0,38,0,13,0.04614742241859262
+maestro_033.flac,Edvard Grieg,"Lyric Piece in E Minor, “Valse-Impromptu,” Op. 47 No.1",train,129.19921875,375,0,23,0,7,0.05943341438707367
+maestro_034.flac,Johann Sebastian Bach,"Prelude and Fugue in E Major, WTC I, BWV 854",train,112.34714673913044,261,0,16,0,5,0.04268695594290563
+maestro_035.flac,Domenico Scarlatti,"Sonata in D Minor, K. 141",train,107.666015625,344,0,21,0,8,0.05222673958233849
+maestro_036.flac,Wolfgang Amadeus Mozart,"Sonata in C Minor K457, First Movement",train,99.38401442307692,365,0,22,0,13,0.05103206809372218
+maestro_037.flac,Joseph Haydn,"Sonata in C Major, Hob. XVI:50",train,99.38401442307692,219,0,13,0,11,0.05261377675418151
+maestro_038.flac,Ludwig van Beethoven,"Sonata No. 7 in D Major, Op. 10 No. 3, 1st mov.",train,151.99908088235293,710,0,44,0,6,0.054649133002594955
+maestro_039.flac,Franz Schubert,Impromptu Op. 90 No. 2,train,83.35433467741936,233,0,14,0,9,0.05888075297229725
+maestro_040.flac,Frédéric Chopin,Etude Op. 10 No. 4 in C-sharp Minor,train,184.5703125,332,0,20,0,12,0.055596686263198296
+maestro_041.flac,Franz Liszt,"Transcendental Etude No. 5 “Feux Follets,” S.139, No. 5",train,151.99908088235293,526,0,32,0,14,0.05784703441060676
+maestro_042.flac,Claude Debussy,"Preludes, Book II, L 123, IV. «Les fées sont d'exquises danseuses»",train,151.99908088235293,420,0,26,0,4,0.05822805124657558
+maestro_043.flac,Sergei Rachmaninoff,"Moment Musicaux, Op. 16 No. 5",train,151.99908088235293,471,0,29,0,7,0.06165648240678432
+maestro_044.flac,Johann Sebastian Bach,French Suite No. 5 in G Major,train,151.99908088235293,316,0,19,0,12,0.04403929775591797
+maestro_045.flac,Domenico Scarlatti,"Sonata in D Major, K. 430",train,123.046875,335,0,20,0,15,0.04417915735303573
+maestro_046.flac,Wolfgang Amadeus Mozart,"Sonata in D Major, K. 576, I - Allegro",train,143.5546875,497,0,31,0,1,0.053865436445234116
+maestro_047.flac,Joseph Haydn,"Sonata in in F Major, Hob. XVI: 23, I. Allegro moderato",train,151.99908088235293,512,0,32,0,0,0.05120752746651588
+maestro_048.flac,Ludwig van Beethoven,"Sonata No. 24 in F-sharp Major, Op. 78, First Movement",train,129.19921875,579,0,36,0,3,0.05322232750939465
+maestro_049.flac,Franz Schubert,"Sonata in A Minor, D. 848",train,117.45383522727273,519,0,32,0,7,0.0689056705290285
+maestro_050.flac,Frédéric Chopin,Etude Op. 10 No. 1,train,172.265625,323,0,20,0,3,0.0592218920994311
+maestro_001.flac,Johann Sebastian Bach,"Prelude and Fugue in D Major, WTC I, BWV 850",test,143.5546875,483,0,30,0,3,0.06021024926964115
+maestro_002.flac,Domenico Scarlatti,"Sonata in D Minor, K. 9 L. 413",test,123.046875,184,0,11,0,8,0.04807345600461774
+maestro_003.flac,Wolfgang Amadeus Mozart,"Sonata in F Major, K280",test,151.99908088235293,619,0,38,0,11,0.050441055867718604
+maestro_004.flac,Joseph Haydn,"Sonata in E flat Major, Hob. XVI: 49, I. Allegro",test,143.5546875,715,0,44,0,11,0.06276362808079605
+maestro_005.flac,Ludwig van Beethoven,"Sonata No. 16 in G Major, Op. 31 No. 1, First Movement",test,135.99917763157896,639,0,39,0,15,0.05329860294322102
+maestro_006.flac,Franz Schubert,"""Erlkoenig""",test,151.99908088235293,695,0,43,0,7,0.055734895392159804
+maestro_007.flac,Frédéric Chopin,Etude Op. 10 No. 12 in C Minor,test,151.99908088235293,345,0,21,0,9,0.0526820146047147
+maestro_008.flac,Franz Liszt,Au bord d'une source,test,123.046875,414,0,25,0,14,0.06346352651642026
+maestro_009.flac,Claude Debussy,"Etude No. 7 ""Study in Chromatic Steps""",test,103.359375,217,0,13,0,9,0.060941499556797986
+maestro_010.flac,Sergei Rachmaninoff,"Etude-Tableaux, Opus 39 No. 8 in D Minor",test,172.265625,533,0,33,0,5,0.05884439600196858

@@ -5,3 +5,11 @@ matplotlib==3.11.2
 ipykernel==7.4.0
 nbformat==5.11.1
 nbclient==0.11.0
+
+# Problem 2 audio preprocessing
+librosa>=0.10.2,<0.12
+soundfile>=0.12,<0.14
+scipy>=1.11,<2
+
+# Used directly by the optional MAESTRO downloader
+requests>=2.31,<3
