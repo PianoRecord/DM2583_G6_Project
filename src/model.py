@@ -1,4 +1,4 @@
-"""Member B: Problem 1 MLP/linear flow matching adapted from 3 to 192 dimensions."""
+"""Flow matching for 16-beat chroma sequences."""
 import torch
 from torch import nn
 from .constraints import correct_step, project_simplex
