@@ -1,4 +1,4 @@
-"""Member C: evaluate raw outputs, never silently project before scoring."""
+"""Feasibility and distribution metrics for raw chroma samples."""
 import numpy as np
 
 

@@ -1,4 +1,4 @@
-"""Member C owns projection; coordinate sampler changes with member B."""
+"""Per-beat simplex projection and sampling corrections."""
 import torch
 
 

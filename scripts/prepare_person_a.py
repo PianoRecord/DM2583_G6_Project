@@ -1,4 +1,4 @@
-"""Person A entrypoint: python scripts/prepare_person_a.py (no model training)."""
+"""Prepare chroma arrays and data diagnostics from the audio subset."""
 from pathlib import Path
 import sys,json,csv
 ROOT=Path(__file__).resolve().parents[1]

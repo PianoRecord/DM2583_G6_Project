@@ -1,1 +1,1 @@
-"""Problem 2 MVP modules."""
+"""Chroma generation modules."""
