@@ -126,7 +126,3 @@ small pilot study rather than a general ranking of constraint methods.
 - Hawthorne et al., *Enabling Factorized Piano Music Modeling and Generation with
   the MAESTRO Dataset*, ICLR 2019. MAESTRO attribution and CC BY-NC-SA 4.0 terms
   are recorded in [DATASET.md](data/problem2/DATASET.md).
-
-Codex assisted with implementation, debugging, and explanations of the methods.
-The retained [Problem 1 description](Group6_p1_1pDescription.pdf) documents this use
-and summarizes the experiment.
